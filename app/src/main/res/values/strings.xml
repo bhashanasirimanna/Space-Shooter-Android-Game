@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Space Shooter</string>
+    <string name="play">Play</string>
+    <string name="gameName">Space Shooter</string>
+    <string name="highScore">High Score</string>
+
+</resources>
