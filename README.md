@@ -11,5 +11,12 @@ Welcome to the **Space Survivor game!** This is an action-packed Android game de
 - **Engaging Graphics:** Vibrant and engaging graphics to keep you immersed in the game.
 
 ## Screen Shots
+
+### 1st screen
 ![Screenshot_20240618_220645_com example game](https://github.com/bhashanasirimanna/Space-Shooter-Android-Game/assets/146844863/b245b395-cbfd-4bbc-81ec-d4e79f34554e)
+
+### while playing
 ![Screenshot_20240618_221427_com huawei himovie overseas](https://github.com/bhashanasirimanna/Space-Shooter-Android-Game/assets/146844863/f3a44d3a-0eb9-4dc0-bb83-c771954ca093)
+
+### Game over
+![Screenshot_20240618_221713_com huawei himovie overseas](https://github.com/bhashanasirimanna/Space-Shooter-Android-Game/assets/146844863/6aa2114f-ae9d-42ef-92a9-a3d4f094ebab)
